@@ -5,6 +5,7 @@
 <body>Enhanced Math Skills: The inclusion of math questions in the game helps children improve their mathematical abilities. By solving math problems within the game, kids can reinforce their understanding of mathematical concepts, build problem-solving skills, and develop a stronger mathematical foundation.
 
   Engagement and Motivation: Educational games are often more engaging for children than traditional learning methods. The interactive and fun nature of the game can motivate kids to spend more time practicing math, which is essential for skill development.
+
 Typing Proficiency: The typing speed component of the game can be beneficial in today's digital age. As children become more proficient at typing, they can communicate and complete assignments more quickly and effectively, which is a valuable skill for both education and future careers.
 
 Cognitive Development: Playing educational games that involve math questions and typing can enhance cognitive abilities such as problem-solving, critical thinking, and pattern recognition. This type of mental exercise can be particularly useful for children's cognitive development.
