@@ -27,6 +27,8 @@ In summary, a kid's educational game that combines math questions and typing spe
 
 <h3>Mascot</h3>
 
+<img src="mascot.png" width="400"></img>
+
 
 
 
