@@ -2,7 +2,8 @@
 
 
 <h2>Description of the game and it's benefits</h2> 
-<body>Enhanced Math Skills: The inclusion of math questions in the game helps children improve their mathematical abilities. By solving math problems within the game, kids can reinforce their understanding of mathematical concepts, build problem-solving skills, and develop a stronger mathematical foundation.
+<body>
+  Enhanced Math Skills: The inclusion of math questions in the game helps children improve their mathematical abilities. By solving math problems within the game, kids can reinforce their understanding of mathematical concepts, build problem-solving skills, and develop a stronger mathematical foundation.
 
   Engagement and Motivation: Educational games are often more engaging for children than traditional learning methods. The interactive and fun nature of the game can motivate kids to spend more time practicing math, which is essential for skill development.
 
