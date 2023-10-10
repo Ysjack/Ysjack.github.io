@@ -2,8 +2,9 @@
 
 
 <h2>Description of the game and it's benefits</h2> 
-<body>Enhanced Math Skills: The inclusion of math questions in the game helps children improve their mathematical abilities. By solving math problems within the game, kids can reinforce their understanding of mathematical concepts, build problem-solving skills, and develop a stronger mathematical foundation.Engagement and Motivation: Educational games are often more engaging for children than traditional learning methods. The interactive and fun nature of the game can motivate kids to spend more time practicing math, which is essential for skill development.
+<body>Enhanced Math Skills: The inclusion of math questions in the game helps children improve their mathematical abilities. By solving math problems within the game, kids can reinforce their understanding of mathematical concepts, build problem-solving skills, and develop a stronger mathematical foundation.
 
+  Engagement and Motivation: Educational games are often more engaging for children than traditional learning methods. The interactive and fun nature of the game can motivate kids to spend more time practicing math, which is essential for skill development.
 Typing Proficiency: The typing speed component of the game can be beneficial in today's digital age. As children become more proficient at typing, they can communicate and complete assignments more quickly and effectively, which is a valuable skill for both education and future careers.
 
 Cognitive Development: Playing educational games that involve math questions and typing can enhance cognitive abilities such as problem-solving, critical thinking, and pattern recognition. This type of mental exercise can be particularly useful for children's cognitive development.
@@ -23,6 +24,7 @@ Fun Learning Experience: A well-designed educational game can make learning enjo
 Parental Involvement: Parents can use these games to monitor their child's progress and identify areas where they may need additional support, making it a valuable tool for involving parents in their children's education.
 
 In summary, a kid's educational game that combines math questions and typing speed can offer a holistic learning experience. It not only strengthens math skills but also equips children with practical typing abilities and cognitive skills while keeping them engaged and motivated throughout the learning process.
+
 </body>
 
 <h3>Mascot</h3>
