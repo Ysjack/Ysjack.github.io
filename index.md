@@ -52,6 +52,5 @@ Quizzy also adds typing games to her app to help improve the students' keyboardi
 Now whenever it's time for math class, the students can't wait to join their friend Quizzy the mouse in practicing their math and typing skills. Quizzy loves being the classroom math whiz!
 
 
-here the code 
-https://github.com/Ysjack/Ysjack.github.io/blob/main/math%20quiz#
+here the code: [Math Quiz on GitHub](https://github.com/Ysjack/Ysjack.github.io/blob/main/math%20quiz#)
 
