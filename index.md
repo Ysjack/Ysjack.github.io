@@ -53,4 +53,6 @@ Now whenever it's time for math class, the students can't wait to join their fri
 
 
 here the code: [Math Quiz on GitHub](https://github.com/Ysjack/Ysjack.github.io/blob/main/math%20quiz#L1)
-here the code: [Guessing Game on GitHub](https://ysjack.github.io/guessing-game.io/)
+here the code: [Guessing Game on GitHub]([https://ysjack.github.io/guessing-game.io/](https://ysjack.github.io/guessing-game.io/
+)https://ysjack.github.io/guessing-game.io/
+)
